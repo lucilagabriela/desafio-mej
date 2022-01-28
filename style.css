@@ -172,4 +172,6 @@ body {
 
 .rodape {
     text-align: center;
+    padding: 30px;
+    border-top: 0.4px solid #FFF2E7;
 }
