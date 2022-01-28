@@ -1,5 +1,5 @@
 # desafio-mej
  
 - favicon
-- fonte
 - responsividade
+-clicar na imagem e ela subir
