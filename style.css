@@ -45,7 +45,7 @@ body {
 }
 
 .conteudo-principal-1 {
-    border-top: 0.4px solid #fff2e736;
+    border-top: 0.4px solid hsla(27, 100%, 95%, 0.212);
     padding-top: 80px;
     padding-left: 50px;
     margin-bottom: 56px;
@@ -66,11 +66,13 @@ body {
 .secao-inicial-texto-titulo {
     font-weight: 800;
     font-size: 30px;
+    width: 300px;
 }
 
 .secao-inicial-texto-subtitulo {
     font-weight: 500;
     font-size: 1rem;
+    width: 255px;
 }
 
 .secao-inicial-texto-botao {
@@ -99,9 +101,10 @@ body {
 }
 
 .informacoes-texto-titulo {
+    border-top: 0.4px solid hsla(28, 100%, 95%, 0.055);
     font-weight: 700;
     font-size: 28px;
-    padding-bottom: 8px;
+    padding: 30px 0 8px 0;
 }
 
 .informacoes-texto-subtitulo {
@@ -127,9 +130,11 @@ body {
 }
 
 .contatos-titulo {
-    padding-bottom: 7px;
+    border-top: 0.4px solid hsla(28, 100%, 95%, 0.055);
+    padding-bottom: 8px;
     font-weight: 700;
     font-size: 28px;
+    padding-top: 20px;
 }
 
 .contatos-subtitulo {
@@ -153,6 +158,8 @@ body {
 }
 
 .parcerias-titulo {
+    border-top: 0.4px solid hsla(28, 100%, 95%, 0.055);
+    padding-top: 20px;
     font-weight: 700;
     font-size: 28px;
     padding-bottom: 8px;
@@ -173,5 +180,5 @@ body {
 .rodape {
     text-align: center;
     padding: 30px;
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.4px solid hsla(27, 100%, 95%, 0.212);
 }
