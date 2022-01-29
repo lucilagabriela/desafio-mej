@@ -44,6 +44,12 @@ body {
     gap: 35px;
 }
 
+.cabecalho-links-nav:hover {
+    background-color: hsla(228, 40%, 58%, 0.588);
+    padding: 5px;
+    border-radius: 5px;
+}
+
 .conteudo-principal-1 {
     border-top: 0.4px solid hsla(27, 100%, 95%, 0.212);
     padding-top: 80px;
@@ -114,10 +120,12 @@ body {
 
 .informacoes-texto-topicos {
     background-color: hsla(228, 40%, 58%, 0.588);
-    padding: 20px;
+    padding: 30px;
     border-radius: 20px;
     list-style-position: inside;
     columns: 2;
+    width: 700px;
+    margin: auto;
 }
 
 .contatos {
