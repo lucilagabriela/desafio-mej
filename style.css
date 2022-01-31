@@ -82,8 +82,8 @@ body {
 }
 
 .secao-inicial-texto-botao {
-    width: 128px;
-    height: 36px;
+    width: 175px;
+    height: 40px;
     background-color: #23A6F0;
     border-radius: 25px;
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.473);
@@ -181,13 +181,55 @@ body {
 }
 
 
-.formulario {
+.formulario-campos {
     margin-bottom: 50px;
     background-color: hsla(228, 40%, 58%, 0.588);
     padding: 30px;
     border-radius: 20px;
     width: 700px;
     margin: auto;
+    
+}
+
+.formulario-titulo {
+    border-top: 0.4px solid hsla(28, 100%, 95%, 0.055);
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 28px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#name {
+    padding-bottom: 10px;
+}
+
+#email {
+    padding-bottom: 10px;
+}
+
+input {
+    width: 200px;
+    height: 23px;
+    border-radius: 5px;
+    border: none;
+}
+
+.relato {
+    margin-top: 20px;
+}
+
+.formulario-botao {
+    margin-top: 10px;
+    width: 128px;
+    height: 36px;
+    background-color: #23a5f09f;
+    border-radius: 25px;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.473);
+    border: none;
+    font-weight: 700;
+    color: #fff;
+    font-size: 12px;
 }
 
 .rodape {
