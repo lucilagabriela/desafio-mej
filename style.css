@@ -183,7 +183,11 @@ body {
 
 .formulario {
     margin-bottom: 50px;
-    
+    background-color: hsla(228, 40%, 58%, 0.588);
+    padding: 30px;
+    border-radius: 20px;
+    width: 700px;
+    margin: auto;
 }
 
 .rodape {
